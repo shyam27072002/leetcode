@@ -20,4 +20,4 @@ class Solution(object):
        return res
    
 """Runtime: 32 ms, faster than 36.12% of Python online submissions for Reverse Integer.
-Memory Usage: 13.5 MB, less than 13.71% of Python online submissions for Reverse Integer.""
+Memory Usage: 13.5 MB, less than 13.71% of Python online submissions for Reverse Integer."""
